@@ -5,7 +5,7 @@
 - Carlos Espinosa
 - Lina Martinez
 - Manuel Rios
-- Estudiante 6
+- Luz Ceballos
 - Estudiante 7
 - Estudiante 8
 - Estudiante 9
