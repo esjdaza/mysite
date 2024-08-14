@@ -3,7 +3,7 @@
 - Jorge Iván Daza Botina
 - Linda Herrera
 - Carlos Espinosa
-- Estudiante 4
+- Lina Martinez
 - Estudiante 5
 - Estudiante 6
 - Estudiante 7
