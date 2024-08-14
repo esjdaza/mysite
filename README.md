@@ -7,7 +7,7 @@
 - Manuel Rios
 - Luz Ceballos
 - Milu Daza
-- Estudiante 8
+- Cookie Daza
 - Estudiante 9
 - Estudiante 10
 
