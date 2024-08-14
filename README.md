@@ -8,6 +8,6 @@
 - Luz Ceballos
 - Milu Daza
 - Cookie Daza
-- Estudiante 9
+- Pararito Martinez
 - Estudiante 10
 
