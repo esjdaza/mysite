@@ -6,7 +6,7 @@
 - Lina Martinez
 - Manuel Rios
 - Luz Ceballos
-- Estudiante 7
+- Milu Daza
 - Estudiante 8
 - Estudiante 9
 - Estudiante 10
