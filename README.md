@@ -9,7 +9,7 @@
 - Milu Daza
 - Cookie Daza
 - Pararito Martinez
-- Estudiante 10
+- Andrés lopez
 - Estudiante 11
 - Estudiante 12
 - Estudiante 13
