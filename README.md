@@ -4,7 +4,7 @@
 - Linda Herrera
 - Carlos Espinosa
 - Lina Martinez
-- Estudiante 5
+- Manuel Rios
 - Estudiante 6
 - Estudiante 7
 - Estudiante 8
