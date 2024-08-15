@@ -1,5 +1,7 @@
 # mysite
+
 ### Integrantes del equipo
+
 - Jorge Iván Daza Botina
 - Linda Herrera
 - Carlos Espinosa
