@@ -9,8 +9,9 @@
 - Milu Daza
 - Cookie Daza
 - Pararito Martinez
-- Estudiante 10
+- Andrés lopez
 - Camila Marín
+- Alejandra Molina
 - Estudiante 12
 - Estudiante 13
 
