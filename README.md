@@ -14,4 +14,6 @@
 - Alejandra Molina
 - Estudiante 12
 - Daniela Aristizabal
+- Carlos Puerta
+
 
