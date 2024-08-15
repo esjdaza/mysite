@@ -10,7 +10,8 @@
 - Cookie Daza
 - Pararito Martinez
 - Andrés lopez
-- Estudiante 11
+- Camila Marín
 - Alejandra Molina
+- Estudiante 12
 - Estudiante 13
 
