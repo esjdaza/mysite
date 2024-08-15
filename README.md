@@ -13,5 +13,5 @@
 - Camila Marín
 - Alejandra Molina
 - Estudiante 12
-- Estudiante 13
+- Carlos Puerta
 
